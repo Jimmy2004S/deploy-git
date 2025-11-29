@@ -1,0 +1,10 @@
+{
+  "name": "url-shortener-module1",
+  "version": "1.0.0",
+  "main": "src/handler.js",
+  "scripts": {
+    "test": "echo \"No tests yet\"",
+    "lint": "echo \"No lint yet\""
+  },
+  "dependencies": {}
+}
